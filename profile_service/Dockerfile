@@ -1,4 +1,3 @@
-# Dockerfile for profile-service
 FROM node:14
 
 WORKDIR /app

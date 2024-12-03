@@ -1,4 +1,3 @@
-# Dockerfile for auth-service
 FROM node:14
 
 WORKDIR /app
